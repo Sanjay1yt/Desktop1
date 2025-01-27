@@ -6,7 +6,6 @@
   display: grid;
   grid-template-columns: repeat(3,1fr);
   gap: 10px;
-  height: 80%;
   overflow-y: auto;
 }
 .grid-item{
