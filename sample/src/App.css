@@ -31,3 +31,11 @@
   font-size: large;
   font-weight:600
 }
+.flex-header-container{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.button-style{
+  float: right;
+}
